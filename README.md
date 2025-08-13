@@ -11,9 +11,8 @@ You can learn more about me here: https://www.lazydaily.cn/
 
 Also, I usually update my routine here: https://uhufoundme.sol.build/
 
-#### Submit
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
+<img align = "right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
 
 
 #### Skills
