@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
+
 
 
 ### uh, You found me ! 👋
@@ -29,4 +29,8 @@ https://uhufoundme.sol.build/
 
 [![Something](https://skillicons.dev/icons?i=twitter,discord,gmail,linkedin&perline=10&theme=light)](https://skillicons.dev)
 
+
+#### Coding
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
 
