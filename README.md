@@ -1,14 +1,21 @@
 
 
 
-### uh, You found me ! 👋
+# Hi 👋, I'm z1gui
 
-Hey, here is z1gui!  It would be my greatest honor if I could help you here!
+### A passionate Java developer
 
-You can learn more about me here: https://www.lazydaily.cn/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z1gui" alt="z1gui" /></a> </p>
 
-Also, I usually update my routine here: 
-https://uhufoundme.sol.build/
+- 🌱 I'm currently learning **Golang,Rust,Solana**
+
+- 💬 Ask me about **Java,web development**
+
+- 📫 How to reach me **leon6line@gmail.com**
+
+- 📝 I regularly write articles on **[https://www.lazydaily.cn/](https://www.lazydaily.cn/)**
+
+- 🖋 Also, I usually update my routine on **[https://uhufoundme.sol.build/](https://uhufoundme.sol.build/)**
 
 <img src="https://github-readme-stats.vercel.app/api?username=z1gui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
