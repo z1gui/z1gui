@@ -5,8 +5,6 @@
 
 ### A passionate Java developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z1gui" alt="z1gui" /></a> </p>
-
 - 🌱 I'm currently learning **Golang,Rust,Solana**
 
 - 💬 Ask me about **Java,web development**
@@ -17,7 +15,7 @@
 
 - 🖋 Also, I usually update my routine on **[https://uhufoundme.sol.build/](https://uhufoundme.sol.build/)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=z1gui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats-kappa-tawny-48.vercel.app/api?username=z1gui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 
@@ -39,5 +37,5 @@
 
 #### Coding
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
+<img src="https://github-readme-stats-kappa-tawny-48.vercel.app/api/top-langs/?username=z1gui&layout=compact&hide_title=true" />
 
