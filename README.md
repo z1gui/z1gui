@@ -6,6 +6,7 @@
   alt="z1gui GitHub stats" style="width:40%"
 />
 
+
 - 🌱 A passionate **BACKEND** developer  
 - 💬 Currently exploring **Rust**, **Solana** to broaden my Web3 perspective  
 - 📫 How to reach me: **leon6line@gmail.com**  
@@ -17,7 +18,13 @@
 
 ### 💻 Tech Stack
 
+
 #### Programming Languages
+<img
+  align="right"
+  src="https://github-readme-stats-for-z1gui.vercel.app/api/top-langs/?username=z1gui&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&v=7"
+  alt="z1gui GitHub stats" style="width30%"
+/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -36,7 +43,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
+<br clear="right"/>
 
-### 📊 GitHub Commits
 
-![z1gui's GitHub coding](https://github-readme-stats-for-z1gui.vercel.app/api/top-langs/?username=z1gui&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&v=7)
