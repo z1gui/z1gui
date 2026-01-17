@@ -3,7 +3,7 @@
 <img
   align="right"
   src="https://github-readme-stats-for-z1gui.vercel.app/api?username=z1gui&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true&v=7"
-  alt="z1gui GitHub stats"
+  alt="z1gui GitHub stats" style="width:40%"
 />
 
 - 🌱 A passionate **BACKEND** developer  
