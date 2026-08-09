@@ -8,7 +8,7 @@
 
 
 - 🌱 A passionate **BACKEND** developer  
-- 💬 Currently exploring **Rust**, **Solana** to broaden my Web3 perspective  
+- 💬 Currently exploring **Python**, **LLM**, **Rust**, **Solana** 
 - 📫 How to reach me: **leon6line@gmail.com**  
 - 📝 I regularly write articles on https://www.lazydaily.cn/  
 - 🖋 I usually update my routine on https://uhufoundme.sol.build/
