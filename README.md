@@ -11,7 +11,7 @@
 - 💬 Currently exploring **Python**, **LLM**, **Rust**, **Solana** 
 - 📫 How to reach me: **leon6line@gmail.com**  
 - 📝 I regularly write articles on https://www.lazydaily.cn/  
-- 🖋 I usually update my routine on https://uhufoundme.sol.build/
+
 
 <br clear="right"/>
 
